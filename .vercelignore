@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.pem
+**/*.pem
+*.key
+**/*.key
+.npm-cache
+**/__pycache__
+*.py[cod]
